@@ -3,6 +3,9 @@
 #set par(justify: true, leading: 0.85em, spacing: 0em)
 #set block(spacing: 0em)
 #set heading(numbering: "1.1.a.")
+#show math.equation.where(block: true): set block(spacing: 1.2em)
+#show list: set block(above: 1.2em, below: 1.2em)
+#show enum: set block(above: 1.2em, below: 1.2em)
 
 #include "metadata/title.typ"
 
