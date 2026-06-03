@@ -8,6 +8,7 @@
 #show math.equation.where(block: true): set block(spacing: spacing)
 #show list: set block(above: spacing, below: spacing)
 #show enum: set block(above: spacing, below: spacing)
+#show table: set block(spacing: spacing)
 
 #include "metadata/title.typ"
 
