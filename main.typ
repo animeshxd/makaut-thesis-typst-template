@@ -54,6 +54,7 @@
 #include "chapters/06_results_discussion.typ"
 #include "chapters/07_conclusion.typ"
 #include "chapters/08_future_work.typ"
+#include "chapters/09_appendices.typ"
 
 #show bibliography: set heading(outlined: false)
 #bibliography("cites.bib", title: auto)
